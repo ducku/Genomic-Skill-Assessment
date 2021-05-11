@@ -1,0 +1,89 @@
+{
+    "TASK00": {
+        "cpu": 13,
+        "time": 851
+    },
+    "TASK01": {
+        "cpu": 9,
+        "time": 506,
+        "relies_on": 13
+    },
+    "TASK02": {
+        "cpu": 2,
+        "time": 113,
+        "relies_on": 1
+    },
+    "TASK03": {
+        "cpu": 16,
+        "time": 587
+    },
+    "TASK04": {
+        "cpu": 8,
+        "time": 468
+    },
+    "TASK05": {
+        "cpu": 13,
+        "time": 52
+    },
+    "TASK06": {
+        "cpu": 5,
+        "time": 12
+    },
+    "TASK07": {
+        "cpu": 5,
+        "time": 88
+    },
+    "TASK08": {
+        "cpu": 2,
+        "time": 194
+    },
+    "TASK09": {
+        "cpu": 6,
+        "time": 671
+    },
+    "TASK10": {
+        "cpu": 12,
+        "time": 205
+    },
+    "TASK11": {
+        "cpu": 10,
+        "time": 214
+    },
+    "TASK12": {
+        "cpu": 4,
+        "time": 345
+    },
+    "TASK13": {
+        "cpu": 16,
+        "time": 322
+    },
+    "TASK14": {
+        "cpu": 7,
+        "time": 201
+    },
+    "TASK15": {
+        "cpu": 16,
+        "time": 488
+    },
+    "TASK16": {
+        "cpu": 15,
+        "time": 375
+    },
+    "TASK17": {
+        "cpu": 3,
+        "time": 591
+    },
+    "TASK18": {
+        "cpu": 5,
+        "time": 607,
+        "relies_on": 20
+    },
+    "TASK19": {
+        "cpu": 15,
+        "time": 962
+    },
+    "TASK20": {
+        "cpu": 11,
+        "time": 221
+    }
+}

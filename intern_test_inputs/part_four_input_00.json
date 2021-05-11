@@ -1,0 +1,688 @@
+{
+    "TASK01": {
+        "cpu": 12,
+        "mem": "85KIB",
+        "disk": "24KIB",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK02": {
+        "cpu": 16,
+        "mem": "24TIB",
+        "disk": "45TIB",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK03": {
+        "cpu": 1,
+        "mem": "45Pi",
+        "disk": "61Pi",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK04": {
+        "cpu": 2,
+        "mem": "61P",
+        "disk": "1P",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK05": {
+        "cpu": 16,
+        "mem": "1EI",
+        "disk": "8EI",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK06": {
+        "cpu": 16,
+        "mem": "8GIB",
+        "disk": "99GIB",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK07": {
+        "cpu": 9,
+        "mem": "99Pb",
+        "disk": "62Pb",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK08": {
+        "cpu": 16,
+        "mem": "62KiB",
+        "disk": "78KiB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK09": {
+        "cpu": 3,
+        "mem": "78MB",
+        "disk": "63MB",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK10": {
+        "cpu": 14,
+        "mem": "63Kb",
+        "disk": "77Kb",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK11": {
+        "cpu": 1,
+        "mem": "77G",
+        "disk": "71G",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK12": {
+        "cpu": 11,
+        "mem": "71T",
+        "disk": "93T",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK13": {
+        "cpu": 1,
+        "mem": "93Ei",
+        "disk": "41Ei",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK14": {
+        "cpu": 16,
+        "mem": "41Mib",
+        "disk": "72Mib",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK15": {
+        "cpu": 14,
+        "mem": "72YIB",
+        "disk": "62YIB",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK16": {
+        "cpu": 15,
+        "mem": "62Ei",
+        "disk": "68Ei",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK17": {
+        "cpu": 10,
+        "mem": "68Pb",
+        "disk": "60Pb",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK18": {
+        "cpu": 15,
+        "mem": "60Ei",
+        "disk": "38Ei",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK19": {
+        "cpu": 15,
+        "mem": "38Gib",
+        "disk": "59Gib",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK20": {
+        "cpu": 16,
+        "mem": "59Eib",
+        "disk": "83Eib",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK21": {
+        "cpu": 15,
+        "mem": "83Zi",
+        "disk": "62Zi",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK22": {
+        "cpu": 10,
+        "mem": "62TIB",
+        "disk": "65TIB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK23": {
+        "cpu": 7,
+        "mem": "65M",
+        "disk": "70M",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK24": {
+        "cpu": 16,
+        "mem": "70GIB",
+        "disk": "98GIB",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK25": {
+        "cpu": 10,
+        "mem": "98K",
+        "disk": "61K",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK26": {
+        "cpu": 12,
+        "mem": "61Kb",
+        "disk": "37Kb",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK27": {
+        "cpu": 9,
+        "mem": "37P",
+        "disk": "48P",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK28": {
+        "cpu": 12,
+        "mem": "48y",
+        "disk": "36y",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK29": {
+        "cpu": 16,
+        "mem": "36YB",
+        "disk": "47YB",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK30": {
+        "cpu": 10,
+        "mem": "47KiB",
+        "disk": "64KiB",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK31": {
+        "cpu": 1,
+        "mem": "64GI",
+        "disk": "40GI",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK32": {
+        "cpu": 5,
+        "mem": "40Pib",
+        "disk": "94Pib",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK33": {
+        "cpu": 7,
+        "mem": "94ZI",
+        "disk": "17ZI",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK34": {
+        "cpu": 6,
+        "mem": "17MiB",
+        "disk": "28MiB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK35": {
+        "cpu": 12,
+        "mem": "28KB",
+        "disk": "21KB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK36": {
+        "cpu": 15,
+        "mem": "21YI",
+        "disk": "47YI",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK37": {
+        "cpu": 14,
+        "mem": "47Zb",
+        "disk": "90Zb",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK38": {
+        "cpu": 13,
+        "mem": "90TiB",
+        "disk": "55TiB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK39": {
+        "cpu": 14,
+        "mem": "55Pib",
+        "disk": "49Pib",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK40": {
+        "cpu": 5,
+        "mem": "49Kb",
+        "disk": "71Kb",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK41": {
+        "cpu": 12,
+        "mem": "71m",
+        "disk": "91m",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK42": {
+        "cpu": 16,
+        "mem": "91GI",
+        "disk": "46GI",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK43": {
+        "cpu": 12,
+        "mem": "46ZB",
+        "disk": "61ZB",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK44": {
+        "cpu": 16,
+        "mem": "61e",
+        "disk": "47e",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK45": {
+        "cpu": 10,
+        "mem": "47YB",
+        "disk": "87YB",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK46": {
+        "cpu": 9,
+        "mem": "87Kib",
+        "disk": "37Kib",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK47": {
+        "cpu": 4,
+        "mem": "37GI",
+        "disk": "33GI",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK48": {
+        "cpu": 8,
+        "mem": "33P",
+        "disk": "15P",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK49": {
+        "cpu": 16,
+        "mem": "15YiB",
+        "disk": "87YiB",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK50": {
+        "cpu": 5,
+        "mem": "87k",
+        "disk": "61k",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK51": {
+        "cpu": 4,
+        "mem": "61Kb",
+        "disk": "17Kb",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK52": {
+        "cpu": 6,
+        "mem": "17TB",
+        "disk": "16TB",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK53": {
+        "cpu": 12,
+        "mem": "16GIB",
+        "disk": "22GIB",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK54": {
+        "cpu": 13,
+        "mem": "22Yb",
+        "disk": "45Yb",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK55": {
+        "cpu": 2,
+        "mem": "45PB",
+        "disk": "52PB",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK56": {
+        "cpu": 7,
+        "mem": "52Zi",
+        "disk": "8Zi",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK57": {
+        "cpu": 12,
+        "mem": "8Gi",
+        "disk": "68Gi",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK58": {
+        "cpu": 6,
+        "mem": "68Gi",
+        "disk": "48Gi",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK59": {
+        "cpu": 15,
+        "mem": "48Tib",
+        "disk": "21Tib",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK60": {
+        "cpu": 9,
+        "mem": "21EIb",
+        "disk": "80EIb",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK61": {
+        "cpu": 2,
+        "mem": "80Mi",
+        "disk": "92Mi",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK62": {
+        "cpu": 2,
+        "mem": "92MIb",
+        "disk": "7MIb",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK63": {
+        "cpu": 9,
+        "mem": "7Zb",
+        "disk": "6Zb",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK64": {
+        "cpu": 2,
+        "mem": "6GI",
+        "disk": "35GI",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK65": {
+        "cpu": 4,
+        "mem": "35t",
+        "disk": "99t",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK66": {
+        "cpu": 1,
+        "mem": "99T",
+        "disk": "16T",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK67": {
+        "cpu": 10,
+        "mem": "16G",
+        "disk": "2G",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK68": {
+        "cpu": 15,
+        "mem": "2Z",
+        "disk": "38Z",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK69": {
+        "cpu": 1,
+        "mem": "38Gi",
+        "disk": "87Gi",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK70": {
+        "cpu": 5,
+        "mem": "87E",
+        "disk": "1E",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK71": {
+        "cpu": 3,
+        "mem": "1G",
+        "disk": "17G",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK72": {
+        "cpu": 13,
+        "mem": "17Z",
+        "disk": "70Z",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK73": {
+        "cpu": 15,
+        "mem": "70KI",
+        "disk": "49KI",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK74": {
+        "cpu": 15,
+        "mem": "49ZIb",
+        "disk": "57ZIb",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK75": {
+        "cpu": 16,
+        "mem": "57M",
+        "disk": "85M",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK76": {
+        "cpu": 13,
+        "mem": "85Zi",
+        "disk": "99Zi",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK77": {
+        "cpu": 9,
+        "mem": "99TIB",
+        "disk": "80TIB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK78": {
+        "cpu": 9,
+        "mem": "80Yi",
+        "disk": "90Yi",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK79": {
+        "cpu": 14,
+        "mem": "90GiB",
+        "disk": "34GiB",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK80": {
+        "cpu": 14,
+        "mem": "34MIb",
+        "disk": "93MIb",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK81": {
+        "cpu": 5,
+        "mem": "93KB",
+        "disk": "53KB",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK82": {
+        "cpu": 16,
+        "mem": "53Gb",
+        "disk": "85Gb",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK83": {
+        "cpu": 15,
+        "mem": "85EiB",
+        "disk": "63EiB",
+        "time": "0",
+        "relies_on": "TASK09"
+    },
+    "TASK84": {
+        "cpu": 7,
+        "mem": "63Zi",
+        "disk": "58Zi",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK85": {
+        "cpu": 16,
+        "mem": "58KiB",
+        "disk": "26KiB",
+        "time": "0",
+        "relies_on": "TASK07"
+    },
+    "TASK86": {
+        "cpu": 14,
+        "mem": "26EB",
+        "disk": "61EB",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK87": {
+        "cpu": 12,
+        "mem": "61T",
+        "disk": "54T",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK88": {
+        "cpu": 4,
+        "mem": "54Eib",
+        "disk": "89Eib",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK89": {
+        "cpu": 10,
+        "mem": "89YI",
+        "disk": "16YI",
+        "time": "0",
+        "relies_on": "TASK06"
+    },
+    "TASK90": {
+        "cpu": 10,
+        "mem": "16g",
+        "disk": "38g",
+        "time": "0",
+        "relies_on": "TASK04"
+    },
+    "TASK91": {
+        "cpu": 9,
+        "mem": "38GI",
+        "disk": "40GI",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK92": {
+        "cpu": 1,
+        "mem": "40PIb",
+        "disk": "33PIb",
+        "time": "0",
+        "relies_on": "TASK02"
+    },
+    "TASK93": {
+        "cpu": 1,
+        "mem": "33Kib",
+        "disk": "1Kib",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK94": {
+        "cpu": 16,
+        "mem": "1Zi",
+        "disk": "4Zi",
+        "time": "0",
+        "relies_on": "TASK01"
+    },
+    "TASK95": {
+        "cpu": 6,
+        "mem": "4Mib",
+        "disk": "80Mib",
+        "time": "0",
+        "relies_on": "TASK05"
+    },
+    "TASK96": {
+        "cpu": 12,
+        "mem": "80Yb",
+        "disk": "21Yb",
+        "time": "0",
+        "relies_on": "TASK08"
+    },
+    "TASK97": {
+        "cpu": 12,
+        "mem": "21Yib",
+        "disk": "88Yib",
+        "time": "0",
+        "relies_on": "TASK03"
+    },
+    "TASK98": {
+        "cpu": 6,
+        "mem": "88Pib",
+        "disk": "68Pib",
+        "time": "0",
+        "relies_on": "TASK03"
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "TASK00": {
+        "cpu": 6,
+        "time": 306
+    },
+    "TASK01": {
+        "cpu": 3,
+        "time": 308
+    },
+    "TASK02": {
+        "cpu": 5,
+        "time": 209
+    },
+    "TASK03": {
+        "cpu": 11,
+        "time": 786
+    },
+    "TASK04": {
+        "cpu": 5,
+        "time": 551
+    },
+    "TASK05": {
+        "cpu": 13,
+        "time": 581
+    },
+    "TASK06": {
+        "cpu": 6,
+        "time": 738
+    },
+    "TASK07": {
+        "cpu": 10,
+        "time": 828
+    },
+    "TASK08": {
+        "cpu": 5,
+        "time": 5
+    },
+    "TASK09": {
+        "cpu": 1,
+        "time": 391
+    },
+    "TASK10": {
+        "cpu": 8,
+        "time": 799
+    },
+    "TASK11": {
+        "cpu": 9,
+        "time": 937
+    },
+    "TASK12": {
+        "cpu": 5,
+        "time": 954
+    },
+    "TASK13": {
+        "cpu": 11,
+        "time": 413
+    },
+    "TASK14": {
+        "cpu": 7,
+        "time": 126
+    },
+    "TASK15": {
+        "cpu": 16,
+        "time": 411
+    },
+    "TASK16": {
+        "cpu": 15,
+        "time": 703
+    },
+    "TASK17": {
+        "cpu": 11,
+        "time": 644
+    },
+    "TASK18": {
+        "cpu": 9,
+        "time": 686
+    },
+    "TASK19": {
+        "cpu": 9,
+        "time": 902
+    },
+    "TASK20": {
+        "cpu": 8,
+        "time": 374
+    },
+    "TASK21": {
+        "cpu": 15,
+        "time": 134
+    },
+    "TASK22": {
+        "cpu": 12,
+        "time": 55
+    },
+    "TASK23": {
+        "cpu": 9,
+        "time": 459
+    },
+    "TASK24": {
+        "cpu": 14,
+        "time": 776
+    },
+    "TASK25": {
+        "cpu": 4,
+        "time": 125
+    },
+    "TASK26": {
+        "cpu": 2,
+        "time": 802
+    },
+    "TASK27": {
+        "cpu": 8,
+        "time": 476
+    },
+    "TASK28": {
+        "cpu": 10,
+        "time": 243
+    },
+    "TASK29": {
+        "cpu": 3,
+        "time": 672
+    },
+    "TASK30": {
+        "cpu": 13,
+        "time": 780
+    },
+    "TASK31": {
+        "cpu": 5,
+        "time": 938
+    },
+    "TASK32": {
+        "cpu": 13,
+        "time": 677
+    },
+    "TASK33": {
+        "cpu": 5,
+        "time": 369
+    },
+    "TASK34": {
+        "cpu": 9,
+        "time": 620
+    },
+    "TASK35": {
+        "cpu": 10,
+        "time": 158
+    },
+    "TASK36": {
+        "cpu": 6,
+        "time": 598
+    },
+    "TASK37": {
+        "cpu": 2,
+        "time": 943
+    },
+    "TASK38": {
+        "cpu": 1,
+        "time": 43
+    },
+    "TASK39": {
+        "cpu": 9,
+        "time": 700
+    },
+    "TASK40": {
+        "cpu": 10,
+        "time": 156
+    },
+    "TASK41": {
+        "cpu": 4,
+        "time": 800
+    },
+    "TASK42": {
+        "cpu": 9,
+        "time": 855
+    },
+    "TASK43": {
+        "cpu": 2,
+        "time": 563
+    },
+    "TASK44": {
+        "cpu": 6,
+        "time": 61
+    },
+    "TASK45": {
+        "cpu": 4,
+        "time": 801
+    },
+    "TASK46": {
+        "cpu": 11,
+        "time": 239
+    },
+    "TASK47": {
+        "cpu": 13,
+        "time": 781
+    },
+    "TASK48": {
+        "cpu": 7,
+        "time": 547
+    },
+    "TASK49": {
+        "cpu": 11,
+        "time": 231
+    },
+    "TASK50": {
+        "cpu": 1,
+        "time": 387
+    },
+    "TASK51": {
+        "cpu": 2,
+        "time": 866
+    },
+    "TASK52": {
+        "cpu": 12,
+        "time": 412
+    },
+    "TASK53": {
+        "cpu": 1,
+        "time": 39
+    },
+    "TASK54": {
+        "cpu": 14,
+        "time": 122
+    },
+    "TASK55": {
+        "cpu": 2,
+        "time": 41
+    },
+    "TASK56": {
+        "cpu": 7,
+        "time": 974
+    },
+    "TASK57": {
+        "cpu": 2,
+        "time": 505
+    },
+    "TASK58": {
+        "cpu": 3,
+        "time": 422
+    },
+    "TASK59": {
+        "cpu": 3,
+        "time": 925
+    },
+    "TASK60": {
+        "cpu": 3,
+        "time": 709
+    },
+    "TASK61": {
+        "cpu": 12,
+        "time": 853
+    },
+    "TASK62": {
+        "cpu": 6,
+        "time": 414
+    },
+    "TASK63": {
+        "cpu": 3,
+        "time": 94
+    },
+    "TASK64": {
+        "cpu": 3,
+        "time": 832
+    },
+    "TASK65": {
+        "cpu": 13,
+        "time": 921,
+        "relies_on": 16
+    },
+    "TASK66": {
+        "cpu": 15,
+        "time": 182
+    },
+    "TASK67": {
+        "cpu": 15,
+        "time": 884
+    },
+    "TASK68": {
+        "cpu": 9,
+        "time": 321
+    },
+    "TASK69": {
+        "cpu": 4,
+        "time": 99
+    },
+    "TASK70": {
+        "cpu": 14,
+        "time": 121
+    },
+    "TASK71": {
+        "cpu": 12,
+        "time": 275
+    },
+    "TASK72": {
+        "cpu": 3,
+        "time": 918
+    },
+    "TASK73": {
+        "cpu": 12,
+        "time": 831
+    },
+    "TASK74": {
+        "cpu": 2,
+        "time": 431
+    },
+    "TASK75": {
+        "cpu": 8,
+        "time": 659
+    }
+}
