@@ -7,5 +7,5 @@
 
 find_shortest_runtime.py is incomplete
 
-my though are located here: https://docs.google.com/document/d/1kyKtq8NC0X53R1XmSvpGeIy_mBYEQFxoYQFuZC490H8/edit?usp=sharing
+my thoughts are located here: https://docs.google.com/document/d/1kyKtq8NC0X53R1XmSvpGeIy_mBYEQFxoYQFuZC490H8/edit?usp=sharing
 
