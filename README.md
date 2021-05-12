@@ -1,7 +1,7 @@
 # Genomic-Skill-Assessment
 
 
-'python3 convert_size.py 50MiB'
+`python3 convert_size.py 50MiB`
 
 `python3 convert_tasks.py --files input_0.json input_1.json input_3.json`
 
